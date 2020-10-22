@@ -6,7 +6,7 @@
 Carrinho Responsivo Desenvolvido com PHP Nativo e o mínimo possível de jquery + tecnologia PWA.
 
 # Como Instalar
-- Recomendado **PHP 7.1**
+- Recomendável **PHP 7.1**
 - Importe a MySql db, diretório: `.db/carrinho_db.sql`
 - Seta sua config no **`index.php`**, `'baseurl' => 'http://SEU-URL.COM ou localhost'`
 - Configure a DB em **`index.php`**
