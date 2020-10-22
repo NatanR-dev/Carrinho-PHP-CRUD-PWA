@@ -19,8 +19,9 @@ Carrinho Responsivo Desenvolvido com PHP Nativo e o mínimo possível de jquery 
 # Atualizações & Features (21 de Agosto de 2020)
 - CRUD | Criar, Editar e Excluir Produtos, Categorias e Imagens
 - CRUD | Adicionar, Editar a Quantidade de Itens no Carrinho
-- Pagamento
 - Listagem de Produtos com Detalhes
+- Pagamento
+
 # Mais features em breve...
 
 <br>
