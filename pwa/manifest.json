@@ -1,0 +1,16 @@
+{
+    "name": "Carrinho PHP",
+    "short_name": "Carrinho",
+    "icons": [
+        {
+            "src": "./icon.png",
+            "sizes": "128x128"
+        }
+    ],
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "./?homescreen=true",
+    "orientation": "portrait",
+    "theme_color": "#2979FF",
+    "background_color": "#2c3e50"
+}
