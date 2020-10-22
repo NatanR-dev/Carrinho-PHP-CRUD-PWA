@@ -6,10 +6,10 @@
  * Script desenvolvido para entrevista da Precode Soluções | 21 Out 2020
  */
 
-// Configuration Section
+// Config
 $_CONFIG = [
 
-    // Application Name
+    // Nome da Aplicação
     'name' => 'CRUD | Carrinho PHP',
 
     // URL da aplicação
