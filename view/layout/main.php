@@ -35,7 +35,7 @@
             </ul>
             <!-- Mobile Menu -->
             <ul id="nav-mobile" class="sidenav">
-                <li><a href="<?= baseurl('cart') ?>">Cart <i class="material-icons">shopping_cart</i></a></li>
+                <li><a href="<?= baseurl('cart') ?>">Carrinho <i class="material-icons">shopping_cart</i></a></li>
                 <li><a href="<?= baseurl('admin/product') ?>">Admin <i class="material-icons">people</i></a></li>
             </ul>
             <a href="#" data-target="nav-mobile" class="sidenav-trigger"><i class="material-icons">menu</i></a>
