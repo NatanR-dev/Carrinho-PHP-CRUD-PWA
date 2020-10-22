@@ -1,6 +1,6 @@
 # Carrinho PHP CRUD com PWA
 
-![Simple Google Chart](https://i.ibb.co/mS9cTJW/Screenshot-336.png)
+![Simple Google Chart](https://i.ibb.co/GcskVX7/carrinho-gif.gif)
 
 <br>
 Carrinho Responsivo Desenvolvido com PHP Nativo e o mínimo possível de jquery + tecnologia PWA.
