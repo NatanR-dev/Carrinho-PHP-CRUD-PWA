@@ -30,3 +30,6 @@ Demo Online➤()
 - **public** : assets, imagens e etc public access
 - **system** : core PHP system, class bootloader, função adicional
 - **view** : output em HTML
+
+# Dependencias
+**Materialize & jquery**
