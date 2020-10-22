@@ -20,6 +20,7 @@ Carrinho Responsivo Desenvolvido com PHP Nativo e o mínimo possível de jquery 
 - CRUD | Criar, Editar e Excluir Produtos, Categorias e Imagens
 - CRUD | Adicionar, Editar a Quantidade de Itens no Carrinho
 - Listagem de Produtos com Detalhes
+- Painel Admin
 - Pagamento
 
 # Mais features em breve...
