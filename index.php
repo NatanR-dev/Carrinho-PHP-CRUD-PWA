@@ -13,7 +13,7 @@ $_CONFIG = [
     'name' => 'CRUD | Carrinho PHP',
 
     // URL da aplicação
-    'baseurl' => 'http://g21flix.000webhostapp.com/cart',   // URL ou se for testar localmente use 'localhost'
+    'baseurl' => '',   // URL ou se for testar localmente use 'localhost'
 
     // Index Controller
     'index' => 'Home',
@@ -21,9 +21,9 @@ $_CONFIG = [
     // Config da DB
     'database' => [
         'host'  => 'localhost',
-        'user'  => 'id10997928_db_user',
-        'pass'  => '@D]R[#d@V@!eX8#K',
-        'name'  => 'id10997928_native_php_shopping_cart',
+        'user'  => '',
+        'pass'  => '',
+        'name'  => '',
     ],
 
 ];
