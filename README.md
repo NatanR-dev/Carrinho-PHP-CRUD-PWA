@@ -3,7 +3,7 @@
 ![Simple Google Chart](https://i.ibb.co/GcskVX7/carrinho-gif.gif)
 
 <br>
-Carrinho Responsivo Desenvolvido com PHP Nativo e o mínimo possível de jquery + tecnologia PWA.
+Carrinho Responsivo Desenvolvido em PHP Nativo e o mínimo de jquery possível + tecnologia PWA.
 
 # Como Instalar
 - Recomendável **PHP 7.1**
